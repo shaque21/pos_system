@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+ul,
+ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+img{
+    border: 0;
+}
+.custom_form_label{
+    font-weight: bold!important;
+    font-size: 14px!important;
+    text-align: right!important;
+    padding-right: 0px;
+}
+.custom_form_control{
+    width: 70%;
+    font-size: 14px!important;
+}
+.req_star{
+    color: #951717;
+    font-weight: bolder;
+}
+.custom_view_table tr td:first-child{
+    width: 30%;
+    text-align: right;
+    font-weight: bold;
+}
+.custom_view_table tr td:last-child{
+    width: 68%;
+}
+.custom_image{
+    height: 100px;
+    width: 150px;
+}
+.order_req_star{
+    color: #fd6363;
+    font-weight: bolder;
+}
+.invoice-print{
+    box-shadow: 1 1 1 rgba(0, 0, 0,0.4);
+    padding: 20px 10px;
+}
+.item_restore{
+    text-decoration: none!important;
+    color: blue!important;
+}
+.profile_img{
+    height: 250px;
+    width: 250px;
+}
